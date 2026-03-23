@@ -1,6 +1,7 @@
 {
   "name": "tuff-cloud-config",
   "version": "1.0.0",
+  "main": "api/config.ts",
   "dependencies": {
     "@vercel/kv": "^1.0.1",
     "@vercel/node": "^3.0.0"
